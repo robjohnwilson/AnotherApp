@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-07-10 19:27:06</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>bdd99791db60e600048ef37eaf961973</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_anotherapp_anotherapptable1.x_snc_anotherapp_anotherapptable1_user</sys_name>

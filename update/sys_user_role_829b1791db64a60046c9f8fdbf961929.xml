@@ -7,21 +7,21 @@
         <elevated_privilege>false</elevated_privilege>
         <grantable>true</grantable>
         <includes_roles/>
-        <name>x_snc_anotherapp_anotherapptable1_user</name>
+        <name>x_snc_anotherapp_anotherappsecrettable_user</name>
         <suffix/>
         <sys_class_name>sys_user_role</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2016-07-10 19:27:04</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>d5d9d391db60e600048ef37eaf961981</sys_id>
+        <sys_created_by>sol.ranger</sys_created_by>
+        <sys_created_on>2016-07-10 19:34:45</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>829b1791db64a60046c9f8fdbf961929</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_snc_anotherapp_anotherapptable1_user</sys_name>
+        <sys_name>x_snc_anotherapp_anotherappsecrettable_user</sys_name>
         <sys_package display_value="AnotherApp" source="x_snc_anotherapp">34b91791db60e600048ef37eaf9619db</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="AnotherApp">34b91791db60e600048ef37eaf9619db</sys_scope>
-        <sys_update_name>sys_user_role_d5d9d391db60e600048ef37eaf961981</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-07-10 19:27:04</sys_updated_on>
+        <sys_update_name>sys_user_role_829b1791db64a60046c9f8fdbf961929</sys_update_name>
+        <sys_updated_by>sol.ranger</sys_updated_by>
+        <sys_updated_on>2016-07-10 19:34:45</sys_updated_on>
     </sys_user_role>
 </record_update>
