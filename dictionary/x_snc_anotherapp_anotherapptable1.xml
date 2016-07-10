@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sc_request" label="AnotherAppTable1" max_length="40" name="x_snc_anotherapp_anotherapptable1" type="collection"/>
+</database>
