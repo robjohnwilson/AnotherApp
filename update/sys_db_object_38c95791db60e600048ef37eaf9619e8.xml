@@ -17,11 +17,11 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Request" name="sc_request">65b2be75db231200048ef37eaf9619df</super_class>
+        <super_class display_value="Request" name="sc_request">b885d1f1db21120046c9d8fdbf961938</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-07-10 19:27:04</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>38c95791db60e600048ef37eaf9619e8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>AnotherAppTable1</sys_name>
